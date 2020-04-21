@@ -12,7 +12,7 @@
 
 **截图**
 
-![web.png](https://github.com/wantaname/vue_blog/blob/master/screenshot/web.png 900x600)
+<img src="https://github.com/wantaname/vue_blog/blob/master/screenshot/web.png" alt="图片" width="900" height="550" align="center" />
 
 ### 特色
 
