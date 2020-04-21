@@ -12,3 +12,11 @@
 
 **截图**
 
+![web.png](https://github.com/wantaname/vue_blog/blob/master/screenshot/web.png 900x600)
+
+### 特色
+
++ 自定义样式（背景颜色，markdown样式等）
++ 看板娘
++ 粒子特效
++ 实时保存
