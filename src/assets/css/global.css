@@ -1,0 +1,44 @@
+html, body, #app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.el-radio-button__inner{
+  width: 100%;
+  display: block;
+}
+
+.el-breadcrumb{
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.el-drawer{
+  overflow: auto;
+ 
+}
+
+.demo-table-expand label {
+    color: #99a9bf;
+
+  }
+.el-table{
+  font-size: 14px !important;
+}
+  .input-with-select .el-input-group__prepend {
+    background-color: #fff;
+  }
+ 
+  .el-select .el-input{
+    width: 150px ;
+}
+
+.el-table{
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-pagination{
+    margin-top: 15px;
+}
