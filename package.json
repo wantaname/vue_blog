@@ -14,7 +14,7 @@
     "element-ui": "^2.4.5",
     "live2d-vue": "^0.2.5",
     "live2d4vue": "^0.1.0",
-    "marked": "^0.8.2",
+    "marked": "^4.0.10",
     "mavon-editor": "^2.7.7",
     "vue": "^2.6.11",
     "vue-live2d-model": "^1.1.6",
